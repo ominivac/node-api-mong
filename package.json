@@ -1,0 +1,24 @@
+{
+  "name": "api-mong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ominivac/node-api-mong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ominivac/node-api-mong/issues"
+  },
+  "homepage": "https://github.com/ominivac/node-api-mong#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
